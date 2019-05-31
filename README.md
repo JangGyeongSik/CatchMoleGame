@@ -1,2 +1,2 @@
-# -C-WinAPI
+#C++WinAPI
 #CatchMoleGame #WinAPI
